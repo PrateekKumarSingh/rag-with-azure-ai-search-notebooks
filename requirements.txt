@@ -7,3 +7,6 @@ python-dotenv
 pillow
 azure-ai-evaluation
 ipykernel
+scikit-learn
+plotly
+nbformat>=4.2.0
